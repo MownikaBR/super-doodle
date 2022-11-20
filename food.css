@@ -1,0 +1,32 @@
+.bgimg{
+    background-image:url(https://img.freepik.com/free-photo/gray-abstract-wireframe-technology-background_53876-101941.jpg?w=740&t=st=1668789852~exp=1668790452~hmac=d7dc8f76910011f4658997546d54dd115ab4b8929045154e9b838608f804edbc);
+    background-size: cover;
+    height: 100px;
+}
+.headfirst{
+    color: rgb(235, 14, 14);
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 25px;
+}
+.bgcardcarousel{
+    background-color: white;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    margin: 25px;
+}
+.cardcon{
+    padding: 20px;
+}
+.headsecond{
+    color:navy ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.paraline{
+    color: #6c6b70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}

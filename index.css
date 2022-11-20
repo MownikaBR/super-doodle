@@ -1,0 +1,42 @@
+.bgimg{
+    background-image: url(https://img.freepik.com/premium-photo/three-hamburger-with-beef-meat-burger-fresh-vegetables-dark-background_2829-2667.jpg?w=740); 
+    height: 110vh;
+    width: 100%;
+    background-size: cover;
+}
+.layoutcard{
+    background-color: rgb(207, 74, 57);
+    height: 200px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.heading{
+    color:rgb(207, 207, 21);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: black;
+}
+.middle{
+    text-align: center;
+    color: rgb(216, 90, 17);
+      font-size:50px;
+}
+.color{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.order{
+    color: white;
+    font-weight: bold;
+}
+.hot{
+    text-align: center;
+    color: white;
+    line-height: 50px;
+}

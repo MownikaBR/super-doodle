@@ -1,0 +1,33 @@
+.bgimg{
+    background-image: url(https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89595.jpg?w=740&t=st=1668701803~exp=1668702403~hmac=4914be06942e14b112a4d340af60153befd7ef361b3dff25dca7e8cbeb850c74); 
+    height: 100vh;
+    background-size: cover;
+}
+.restaurant{
+    color: rgb(255, 251, 10);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bolder;
+    padding: 20px;
+}
+.layoutcard{
+    background-color:white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px;
+}
+.indian{
+    color: rgb(238, 50, 25);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.indianburger{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.indianaloo{
+    width: 150px;
+    height:100px ;
+}
